@@ -11,6 +11,7 @@ rclst <n> <outfile>
 ```
 `n` -- число кластеров
 `outfile` -- имя выходных файлов
+
 **Example**: 
 
 ```sh
@@ -22,7 +23,8 @@ rclst <n> <outfile>
 ```sh
 rclss <inputfile> 
 ```
-`n` -- число кластеров
+`inputfile` -- имя входных файлов
+
 **Example**: 
 
 ```sh
